@@ -6,15 +6,15 @@
 
 # for i in range(1, 6):
 #     print(f'{i} --', '0'*i)
-
-print('num 1')
-i = 0
-while i < 5:
-    i += 1
-    print('line', i, 'is 0')
-
-print('')
-
+#######
+# print('num 1')
+# i = 0
+# while i < 5:
+#     i += 1
+#     print('line', i, 'is 0')
+#
+# print('')
+#######
 
 '''
 Задача 2
@@ -27,6 +27,18 @@ print('')
 #     if '5' in n:
 #         amount += 1
 # print(amount)
+#########
+# print('num 2')
+# sum = 0
+# for i in range(10):
+#     answer = int(input('Напишите цифру: '))
+#     if answer == 5:
+#         sum += 1
+#
+# print('Количество 5 =', sum)
+# print('')
+
+#########
 
 '''
 Задача 3
