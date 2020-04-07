@@ -50,6 +50,15 @@
 # for i in range(1,101):
 #     sum+=i
 # print(sum)
+#############
+print('num 3')
+sum = 0
+for i in range(1,101):
+    sum+=i
+print(sum)
+print('')
+################
+
 
 '''
 Задача 4
