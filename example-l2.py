@@ -51,12 +51,12 @@
 #     sum+=i
 # print(sum)
 #############
-print('num 3')
-sum = 0
-for i in range(1,101):
-    sum+=i
-print(sum)
-print('')
+# print('num 3')
+# sum = 0
+# for i in range(1,101):
+#     sum+=i
+# print(sum)
+# print('')
 ################
 
 
@@ -69,6 +69,14 @@ print('')
 # for i in range(2, 11):
 #     n *= i
 # print(n)
+################
+# print('num 4')
+# comp = 1
+# for i in range(1,11):
+#     comp *= i
+# print(comp)
+# print('')
+################
 '''
 Задача 5
 
@@ -82,6 +90,16 @@ print('')
 # while integer_number>0:
 #     print(integer_number%10)
 #     integer_number = integer_number//10
+################
+
+# # print('num 5')
+# integer_number = 2129
+# while integer_number>0:
+#     print(integer_number%10)
+#     integer_number = integer_number//10
+# print('')
+#
+################
 
 '''
 Задача 6
@@ -93,6 +111,17 @@ print('')
 # for i in str(inter_number):
 #     n += int(i)
 # print(n)
+
+################
+# num = 12345
+# n = 0
+# for i in str(num):
+#     n += int(i)
+# print(n)
+################
+
+
+
 '''
 Задача 7
 
