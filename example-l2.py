@@ -179,6 +179,18 @@
 #     inter_number //= 10
 # print(maximum)
 
+################
+# print('num 9')
+# integer_number = 59675
+# tmp = 0
+# while integer_number>0:
+#     if integer_number%10 >= tmp:
+#         tmp = integer_number%10
+#     integer_number = integer_number//10
+# print(tmp)
+# print('')
+################
+
 '''
 Задача 10
 
@@ -191,3 +203,14 @@
 #         count += 1
 #     inter_number //= 10
 # print(count)
+################
+print('num 10')
+integer_number = 595675
+tmp = 0
+while integer_number>0:
+    if integer_number%10 == 5:
+        tmp += 1
+    integer_number = integer_number//10
+print(tmp)
+print('')
+################
