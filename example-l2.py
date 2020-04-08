@@ -204,13 +204,13 @@
 #     inter_number //= 10
 # print(count)
 ################
-print('num 10')
-integer_number = 595675
-tmp = 0
-while integer_number>0:
-    if integer_number%10 == 5:
-        tmp += 1
-    integer_number = integer_number//10
-print(tmp)
-print('')
+# print('num 10')
+# integer_number = 595675
+# tmp = 0
+# while integer_number>0:
+#     if integer_number%10 == 5:
+#         tmp += 1
+#     integer_number = integer_number//10
+# print(tmp)
+# print('')
 ################
