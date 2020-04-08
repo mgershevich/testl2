@@ -113,9 +113,9 @@
 # print(n)
 
 ################
-# num = 12345
+# inter_number = 12345
 # n = 0
-# for i in str(num):
+# for i in str(inter_number):
 #     n += int(i)
 # print(n)
 ################
@@ -131,6 +131,15 @@
 # for i in str(inter_number):
 #     n *= int(i)
 # print(n)
+################
+# inter_number = 12345
+# x = 1
+# for i in str(inter_number):
+#     x *= int(i)
+# print(x)
+
+################
+
 '''
 Задача 8
 
@@ -143,6 +152,18 @@
 #         break
 #     integer_number = integer_number//10
 # else: print('No')
+
+################
+# print('num 8')
+# integer_number = 2134135
+# while integer_number>0:
+#     if integer_number%10 == 5:
+#         print('Yes')
+#         break
+#     integer_number = integer_number//10
+# else: print('No')
+# print('')
+################
 
 '''
 Задача 9
